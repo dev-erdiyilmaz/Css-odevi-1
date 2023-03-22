@@ -1,0 +1,60 @@
+body {
+    background-color: #F7F1E5;
+    font-family: 'Source Serif Pro', serif;
+}
+/* Colors */
+.color-dark-vintage-green {
+    color: #4C4B16;
+}
+.color-vintage-yellow {
+    color: #E7B10A;
+}
+.color-vintage-warm-yellow {
+    color: #E7B10A;
+}
+
+/* Background Colors */
+.bg-color-lightbeige {
+    background-color: #F7F1E5;
+}
+
+/* list */
+.li-position-inside {
+    list-style-position: inside;
+}
+.li-style-none {
+    list-style: none;
+}
+/* fonts */
+
+/* font sizes */
+.f-0-75em {
+    font-size: 0.75em;
+}
+.f-1em {
+    font-size: 1em;
+}
+
+.f-1-25em {
+    font-size: 1.25em;
+}
+
+.f-1-5em {
+    font-size: 1.5em;
+}
+
+/* text */
+.text-align-center {
+    text-align: center;
+}
+
+/* box */
+.display-inline-block {
+    display: inline-block;
+}
+
+/* img size */
+
+.img-size-250 {
+    width: 250px;
+}

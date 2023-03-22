@@ -1,0 +1,14 @@
+
+/* Header Start */
+
+    /* NavBar Start */
+    .nav-menu {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+    }
+    .nav-menu-li {
+        margin: 0 5px;
+    }
+    /* Navbar End */
+/* Header End */
